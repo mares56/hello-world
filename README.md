@@ -1,2 +1,3 @@
 # hello-world
-my testing repo
+My testing repo.  
+This is a commit attempt
